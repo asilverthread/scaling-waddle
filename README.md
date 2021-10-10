@@ -1,4 +1,4 @@
 # scaling-waddle
 This is a repository for Christina and I to learn some JavaScript together
 
-Edit #1
+this is Christina's first commit
